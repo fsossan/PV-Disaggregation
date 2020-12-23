@@ -24,7 +24,7 @@ References
 
 [1] F. Sossan, L. Nespoli, V. Medici and M. Paolone, "Unsupervised Disaggregation of PhotoVoltaic Production from Composite Power Flow Measurements of Heterogeneous Prosumers," in IEEE Transactions on Industrial Informatics. doi: 10.1109/TII.2018.2791932, 2019. https://arxiv.org/pdf/1706.04821.pdf
 
-[2] F. Sossan, E. Scolari, M. Paolone, "Disaggregation of Local Photovoltaic Generation from Composite Power Flows with Direct Measuring and Satellite Estimations of the Irradiance: a Comparison", EUPVSEC, 2019. shorturl.at/aeoxP
+[2] F. Sossan, E. Scolari, M. Paolone, "Disaggregation of Local Photovoltaic Generation from Composite Power Flows with Direct Measuring and Satellite Estimations of the Irradiance: a Comparison", EUPVSEC, 2019. https://cutt.ly/Gh19wrV
 
 [3] Stein, Joshua S., et al. "PVLIB: Open source photovoltaic performance modeling functions for Matlab and Python." 2016 IEEE 43rd photovoltaic specialists conference (PVSC). IEEE, 2016.
 
