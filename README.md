@@ -17,7 +17,7 @@ This method was proven to still work with (less resolved) satellite irradiance e
 The measurements provided in this code are from the "dispatchable feeder" setup [5]. It is a medium voltage distribution feeder of the EPFL campus interfacing office buildings (peak demand approx. 400 kW) with roof-top PV generation (around 95 kWp, at the time of these measurements).
 
 
-If you use this work, please cite reference [1] here below.
+If you use this work, please refer to it by citing reference [1] here below.
 
 
 
