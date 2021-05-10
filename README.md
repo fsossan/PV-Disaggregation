@@ -1,4 +1,4 @@
-Method C
+PV-Disaggregation
 ========
 Disaggregation of photovoltaic production from composite power flow measurements
 --------------------------------------------------------------------------------
